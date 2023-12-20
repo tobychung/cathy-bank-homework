@@ -1,0 +1,14 @@
+{
+  "name": "fe-react",
+  "version": "1.0.0",
+  "description": "Cathy Bank Homework (FE-react)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "http-server . -p 8080"
+  },
+  "author": "Toby Chung",
+  "license": "ISC"
+}
